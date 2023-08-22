@@ -11,5 +11,8 @@
   "license": "ISC",
   "publishConfig": {
     "@edwardjosephbennett:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "https://github.com/edwardjosephbennett/github-package-test"
   }
 }
